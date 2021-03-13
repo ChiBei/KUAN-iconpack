@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<contributor-->
+        <!--name="Taylor Swift"-->
+        <!--contribution="陪我度过漫长时光。新单曲上线，点击试听~~~"-->
+        <!--image="(https://raw.githubusercontent.com/sufadi/MakeDownPicForMyself/master/20180104/MakeDownUpload/pic_path.png?raw=true)"-->
+        <!--link="https://music.163.com/#/song?id=1361348080" />-->
+    <!--<contributor-->
+        <!--name="Name 2"-->
+        <!--contribution="Contribution 1, contribution 2, contribution 3"-->
+        <!--image=""-->
+        <!--link="" />-->
+    <!--<contributor-->
+        <!--name="Another Name"-->
+        <!--contribution="Contribution 1"-->
+        <!--image=""-->
+        <!--link="http://plus.google.com/..." />-->
+    <!--<contributor-->
+        <!--name="Another Name 2"-->
+        <!--contribution="Contribution 1, contribution 2, contribution 3, contribution 4, contribution 5, contribution 6"-->
+        <!--image=""-->
+        <!--link="http://www.link.com" />-->
+
+</resources>

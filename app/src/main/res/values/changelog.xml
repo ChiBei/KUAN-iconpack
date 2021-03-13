@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Leave empty if you don't want to show changelog date -->
+    <string name="changelog_date">2020/11/01</string>
+
+    <!-- Changelog support html formatting
+    * <b> for Bold
+    * <i> for Italic
+    * <u> for Underline -->
+    <string-array name="changelog">
+<!--        <item>申请邮件正文要有换行，要有一个压缩包附件。如果不满足上面两个条件，可以换个邮件客户端试试。</item>-->
+<!--        <item>有问题欢迎去酷安评论区反馈，虽然业余的我基本都解决不了，但是万一会呢......</item>-->
+        <item>诈尸更新，有图标失效了的请来酷安评论区反馈一下，我尽快解决，谢谢！</item>
+
+
+        <!--<item>有任何问题，欢迎到评论区跟我反馈！</item>-->
+        <!--<item><b>广告时间</b>:Taylor Swift出新单曲了，欢迎去网易云音乐，QQ音乐试听嗷~~Please Buy <i>ME!</i> On Itunes!!</item>-->
+
+
+
+        <!--<item>上架酷安</item>-->
+
+        <!--<item><![CDATA[-->
+        <!--This is an example changelog with html formatting-->
+        <!--<b>Bold</b>, <i>Italic</i>, and <u>Underline</u>-->
+
+        <!--]]></item>-->
+        <!--<item>Another changelog</item>-->
+        <!--<item><![CDATA[-->
+
+        <!--]]></item>-->
+    </string-array>
+
+</resources>

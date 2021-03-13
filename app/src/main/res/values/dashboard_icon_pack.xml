@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
+    <!-- YOUR ICON PACK NAME -->
+    <string name="app_name">宽图标包</string>
+
+    <string name="theme_title">宽图标包</string>
+    <string name="theme_name">宽图标包</string>
+
+    <string name="theme_author">迟北</string>
+    <string name="developer_name">迟北</string>
+    <string name="developerName">迟北</string>
+    <string name="authorName">迟北</string>
+
+    <string name="authorLink">https://www.coolapk.com/u/946130</string>
+    <string name="developer_link">https://www.coolapk.com/u/946130</string>
+
+    <string name="theme_description">Your Icon Pack Description</string>
+    <string name="theme_info">Your Icon Pack Description</string>
+    <string name="theme_ad_msg">Your Icon Pack Description</string>
+
+    <string name="theme_feature">feature</string>
+
+    <string name="theme_preview1">preview1</string>
+    <string name="theme_preview2">preview2</string>
+
+    <string name="iconpack">com.chibei.kuan.iconpack</string>
+
+</resources>

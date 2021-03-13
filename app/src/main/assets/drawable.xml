@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+
+    <category title="Newly Added" />
+    <item drawable="email" />
+    <item drawable="app_camera" />
+    <item drawable="keyboard" />
+
+    <category title="Apps" />
+    <item drawable="email" />
+    <item drawable="app_camera" />
+    <item drawable="keyboard" />
+    <item drawable="email" />
+    <item drawable="app_camera" />
+    <item drawable="keyboard" />
+
+    <category title="Games" />
+    <item drawable="email" />
+    <item drawable="app_camera" />
+    <item drawable="keyboard" />
+    <item drawable="email" />
+    <item drawable="app_camera" />
+    <item drawable="keyboard" />
+    <item drawable="email" />
+    <item drawable="app_camera" />
+    <item drawable="keyboard" />
+
+    <item drawable="adobe_behance" />
+    <item drawable="adobe_cp" />
+    <item drawable="adobe_cp_brush" />
+    <item drawable="adobe_cp_color" />
+    <item drawable="adobe_cp_shape" />
+    <item drawable="adobe_create_magzine" />
+    <item drawable="adobe_creative_cloud" />
+    <item drawable="adobe_illustrator" />
+    <item drawable="adobe_lr" />
+    <item drawable="adobe_pr" />
+    <item drawable="adobe_ps" />
+    <item drawable="adobe_ps_fix" />
+    <item drawable="adobe_ps_mix" />
+    <item drawable="adobe_ps_sketch" />
+    <item drawable="adobe_youth_voices" />
+    <item drawable="aiqiyi" />
+    <item drawable="apple_yingyue" />
+
+    <item drawable="baidu_fanyi" />
+    <item drawable="baidu_wangpan" />
+    <item drawable="batman" />
+    <item drawable="bilibili" />
+    <item drawable="bilibili_gainian" />
+
+    <item drawable="cangshuguan" />
+    <item drawable="chrome" />
+
+    <item drawable="daka" />
+
+    <item drawable="forest" />
+    <item drawable="fsck" />
+
+    <item drawable="geek_fanyi" />
+    <item drawable="gjs_dzz" />
+    <item drawable="google_fanyi" />
+    <item drawable="gudong_fanyi" />
+
+    <item drawable="hfjlb" />
+    <item drawable="huaer" />
+    <item drawable="huanle_doudizhu" />
+
+    <item drawable="iconback" />
+    <item drawable="iconmask" />
+    <item drawable="iconpack_forlm" />
+
+    <item drawable="japan_chuantongse" />
+    <item drawable="jianshu" />
+    <item drawable="jingdong" />
+    <item drawable="jinian_beigu_1" />
+    <item drawable="jinian_beigu_2" />
+
+    <item drawable="kaiyan" />
+
+    <item drawable="mantou_diqiu" />
+    <item drawable="map_disney" />
+    <item drawable="map_hengshan" />
+    <item drawable="mini_ditie" />
+    <item drawable="miui_luntan" />
+
+
+
+
+    <item drawable="neihan_duanzi" />
+
+    <item drawable="office_excel" />
+    <item drawable="office_lens" />
+    <item drawable="office_onedrive" />
+    <item drawable="office_onenote" />
+    <item drawable="office_ppt" />
+    <item drawable="office_word" />
+
+    <item drawable="photo_alubm" />
+    <item drawable="picsart" />
+    <item drawable="pigments" />
+    <item drawable="play_console" />
+    <item drawable="play_game" />
+    <item drawable="play_music" />
+    <item drawable="play_newsstand" />
+
+    <item drawable="qie_dianjing" />
+    <item drawable="qing_yingyong" />
+    <item drawable="qq" />
+    <item drawable="qq_jiqiren" />
+    <item drawable="qq_tim" />
+    <item drawable="qq_xxkz" />
+
+    <item drawable="shanbei_danci" />
+    <item drawable="shanbei_dushu" />
+    <item drawable="shanbei_kouyu" />
+    <item drawable="shanbei_lianju" />
+    <item drawable="shanbei_tingli" />
+    <item drawable="shanbei_yuedu" />
+    <item drawable="shetachong" />
+    <item drawable="shiqi" />
+    <item drawable="shouchang_guiying" />
+    <item drawable="sleep_town" />
+    <item drawable="smqnw" />
+    <item drawable="songshui_daofu" />
+    <item drawable="sougou_fanyi" />
+    <item drawable="souhu_shiping" />
+
+    <item drawable="taopiaopiao" />
+
+    <item drawable="via" />
+    <item drawable="village" />
+
+    <item drawable="wangzhe_rongyao" />
+    <item drawable="wangzhe_rongyao_zhushou" />
+    <item drawable="wdj_jsql" />
+    <item drawable="wdj_qmyd" />
+    <item drawable="wdj_qzm" />
+    <item drawable="wdj_tzql" />
+    <item drawable="wdj_znlp" />
+    <item drawable="wdj_znsp" />
+    <item drawable="weiji_baike" />
+    <item drawable="weiruan_fanyi" />
+    <item drawable="weixin" />
+    <item drawable="wiki_how" />
+    <item drawable="wolfram" />
+    <item drawable="wolfram_cloud" />
+    <item drawable="wps" />
+
+    <item drawable="xiangce" />
+    <item drawable="xianyu" />
+    <item drawable="xiaoshuimian" />
+    <item drawable="xichuangzhu" />
+    <item drawable="xp_installer" />
+
+    <item drawable="ycwdyxmq_one" />
+    <item drawable="ycwdyxmq_two" />
+    <item drawable="yijia_luntan" />
+    <item drawable="yingyangshi" />
+    <item drawable="yiyiwu_wangpan" />
+    <item drawable="yizhao" />
+    <item drawable="youdao_fanyiguan" />
+    <item drawable="youtube" />
+
+    <item drawable="zhihu" />
+    <item drawable="zone_fanyi" />
+</resources>
