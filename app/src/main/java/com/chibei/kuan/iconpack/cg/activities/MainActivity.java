@@ -3,9 +3,9 @@ package com.chibei.kuan.iconpack.cg.activities;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 
+import com.chibei.kuan.iconpack.cg.licenses.License;
 import com.dm.material.dashboard.candybar.activities.CandyBarMainActivity;
 import com.dm.material.dashboard.candybar.helpers.InAppBillingHelper;
-import com.chibei.kuan.iconpack.cg.licenses.License;
 
 public class MainActivity extends CandyBarMainActivity {
 

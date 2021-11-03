@@ -119,7 +119,7 @@
     <!--* IGNORE if icon request limit is disabled-->
     <!--* ex: If you set icon request limit to 10, user only able to make 10 icon request in all time-->
     <!--* After making 10 icon request user not able to request again-->
-    <integer name="icon_request_limit">10</integer>
+    <integer name="icon_request_limit">10000</integer>
 
     <!--Reset regular icon request limit every update-->
     <!--* IGNORE if icon request limit is disabled-->
@@ -197,12 +197,14 @@
     <string name="about_title">迟北</string>
 
     <!-- About description below title -->
-    <string name="about_desc"><![CDATA[
-       业余设计，欢迎批评指正。
-    <a href="https://qr.alipay.com/FKX08876D8ZCLEH2RZYIF2
-" target="链接" title="这里" style="text-decoration:none">不妨请我喝杯可乐8</a>
+    <string name="about_desc">
+<!--        <![CDATA[-->
+<!--       业余设计，欢迎批评指正。-->
+<!--    <a href="https://qr.alipay.com/FKX08876D8ZCLEH2RZYIF2-->
+<!--" target="链接" title="这里" style="text-decoration:none">不妨请我喝杯可乐8</a>-->
 
-        ]]></string>
+<!--        ]]>-->
+    </string>
 
     <!-- Social link inside about
     * Supported link:

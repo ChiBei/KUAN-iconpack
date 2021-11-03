@@ -18,8 +18,8 @@ android {
         applicationId "com.chibei.kuan.iconpack.cg"
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 2020102800
-        versionName "1.18"
+        versionCode 2021102401
+        versionName "1.19.1"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
 
@@ -33,7 +33,7 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
 
     /*
      * CandyBar Material Dashboard Library
@@ -46,5 +46,5 @@ dependencies {
      * 5. Clean project
      * 6. Done
      */
-    compile 'com.github.danimahardhika.candybar-library:core:3.4.1'
+    implementation 'com.github.danimahardhika.candybar-library:core:3.4.1'
 }
