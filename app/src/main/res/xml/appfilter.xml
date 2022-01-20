@@ -177,6 +177,10 @@
 		component="ComponentInfo{com.zui.calendar/com.zui.calendar.MainActivity}"
 		prefix="calendar_d" />-->
 
+	<calendar
+		component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+		prefix="calendar_d" />-->
+
 
 
 
@@ -432,26 +436,6 @@
 	<!--drawable="baofeng_yingyin" />-->
 
 	<!-- 哔哩哔哩 / bilibili -->
-	<item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.ui.splash.SplashActivity}"
-		drawable="bilibili" />
-	<item component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity}"
-		drawable="bilibili" />
-
-	<item component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity}"
-		drawable="bilibili" />
-
-	<item component="ComponentInfo{com.bilibili.tv/com.bilibili.tv.ui.splash.SplashActivity}"
-		drawable="bilibili" />
-
-	<item component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity}"
-		drawable="bilibili" />
-
-	<item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.ui.splash.SplashActivity}"
-		drawable="bilibili" />
-
-	<item component="ComponentInfo{com.bilibili.tv/com.bilibili.tv.ui.splash.SplashActivity}"
-		drawable="bilibili" />
-
 	<item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivity}"
 		drawable="bilibili" />
 
@@ -5368,13 +5352,6 @@
 
 
 	<!-- 优酷 / 优酷 -->
-	<item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivityV2}"
-		drawable="bilibili" />
-
-
-
-
-	<!-- 优酷 / 优酷 -->
 	<item component="ComponentInfo{com.tencent.qqlive/com.tencent.qqlive.ona.activity.SplashHomeActivity}"
 		drawable="tengxun_shipin" />
 
@@ -6321,8 +6298,66 @@
 	<!--		drawable="hhhhhhhhhhhhhhhhhhhhhhhhhhhhh" />-->
 	<!--	-->
 
+	<!-- 米家 -->
+	<item
+		component="ComponentInfo{com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity}"
+		drawable="mijia"/>
+
+	<!-- 中国联通 -->
+	<item
+		component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.basic.ui.activity.WelcomeClient}"
+		drawable="zhongguo_liantong"/>
+
+	<!-- 中国移动 -->
+	<item
+		component="ComponentInfo{com.greenpoint.android.mc10086.activity/com.mc10086.cmcc.base.SplashActivity}"
+		drawable="zhongguo_yidong"/>
 
 
+	<!-- 河南移动 -->
+	<item
+		component="ComponentInfo{com.xinhang.mobileclient/com.xinhang.mobileclient.ui.activity.LoadingActivity}"
+		drawable="zhongguo_yidong"/>
+
+
+	<!-- 抖音play版 -->
+	<item
+		component="ComponentInfo{com.ss.android.ugc.aweme.mobile/com.ss.android.ugc.aweme.splash.SplashActivity}"
+		drawable="douyin"/>
+
+
+	<!-- Bilibili-play版 -->
+	<item
+		component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.MainActivityV2}"
+		drawable="bilibili_2"/>
+
+
+	<!-- Bilibili-play版 -->
+	<item
+		component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity}"
+		drawable="bilibili_2"/>
+
+
+	<!-- 哔哩哔哩 -->
+	<item
+		component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivityV2}"
+		drawable="bilibili_2"/>
+
+	<!-- 铁路12306 -->
+	<item
+		component="ComponentInfo{com.MobileTicket/com.MobileTicket.ui.activity.WelcomeGuideActivity}"
+		drawable="tielu_12306"/>
+
+
+	<!-- 中国工商银行 -->
+	<item
+		component="ComponentInfo{com.icbc/com.icbc.activity.init.NewLoadingActivity}"
+		drawable="zhongguo_gongshang_yinhang"/>
+
+	<!-- Camera Go -->
+	<item
+		component="ComponentInfo{com.google.android.apps.cameralite/com.google.android.apps.cameralite.capture.CaptureActivity}"
+		drawable="sys_xiangji"/>
 
 </resources>
 
