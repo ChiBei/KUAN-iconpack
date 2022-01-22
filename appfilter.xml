@@ -179,7 +179,7 @@
 
 	<calendar
 		component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-		prefix="calendar_d" />
+		prefix="calendar_d" />-->
 
 
 
@@ -436,26 +436,6 @@
 	<!--drawable="baofeng_yingyin" />-->
 
 	<!-- 哔哩哔哩 / bilibili -->
-	<item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.ui.splash.SplashActivity}"
-		drawable="bilibili" />
-	<item component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity}"
-		drawable="bilibili_2" />
-
-	<item component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity}"
-		drawable="bilibili_2" />
-
-	<item component="ComponentInfo{com.bilibili.tv/com.bilibili.tv.ui.splash.SplashActivity}"
-		drawable="bilibili" />
-	<item component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity}"
-		drawable="bilibili_2" />
-	<item component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.MainActivityV2}"
-		drawable="bilibili_2" />
-	<item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.ui.splash.SplashActivity}"
-		drawable="bilibili" />
-
-	<item component="ComponentInfo{com.bilibili.tv/com.bilibili.tv.ui.splash.SplashActivity}"
-		drawable="bilibili" />
-
 	<item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivity}"
 		drawable="bilibili" />
 
@@ -5372,13 +5352,6 @@
 
 
 	<!-- 优酷 / 优酷 -->
-	<item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivityV2}"
-		drawable="bilibili_2" />
-
-
-
-
-	<!-- 优酷 / 优酷 -->
 	<item component="ComponentInfo{com.tencent.qqlive/com.tencent.qqlive.ona.activity.SplashHomeActivity}"
 		drawable="tengxun_shipin" />
 
@@ -6353,6 +6326,23 @@
 		drawable="douyin"/>
 
 
+	<!-- Bilibili-play版 -->
+	<item
+		component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.MainActivityV2}"
+		drawable="bilibili_2"/>
+
+
+	<!-- Bilibili-play版 -->
+	<item
+		component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity}"
+		drawable="bilibili_2"/>
+
+
+	<!-- 哔哩哔哩 -->
+	<item
+		component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivityV2}"
+		drawable="bilibili_2"/>
+
 	<!-- 铁路12306 -->
 	<item
 		component="ComponentInfo{com.MobileTicket/com.MobileTicket.ui.activity.WelcomeGuideActivity}"
@@ -6368,5 +6358,6 @@
 	<item
 		component="ComponentInfo{com.google.android.apps.cameralite/com.google.android.apps.cameralite.capture.CaptureActivity}"
 		drawable="sys_xiangji"/>
+
 </resources>
 
